@@ -20,7 +20,7 @@
 
 > *"AI doesn't replace humans — humans who know AI replace humans who don't."*
 
-I'm **Kesavan G**, a pre-final year B.Tech student in **Artificial Intelligence & Data Science** at Ramco Institute of Technology, Tamil Nadu. I build models that see, predict, and respond — and when I'm not training something, I'm probably sketching something.
+I'm **Kesavan G**, a final year B.Tech student in **Artificial Intelligence & Data Science** at Ramco Institute of Technology, Tamil Nadu. I build models that see, predict, and respond — and when I'm not training something, I'm probably sketching something.
 
 Certified **Iron Man fan** — enough that when I built my own real-time AI voice assistant, I named it **Friday**, same as Tony Stark's. Figured if I'm building the assistant, it should have the right name.
 
