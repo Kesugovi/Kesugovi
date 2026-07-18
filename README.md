@@ -88,7 +88,7 @@ Certified **Iron Man fan** — enough that when I built my own real-time AI voic
 <td><code>LSTM</code> <code>XGBoost</code></td>
 </tr>
 <tr>
-<td>🤖 <b>Friday — AI Voice Assistant</b></td>
+<td>🤖 <b>[Friday — AI Voice Assistant](https://github.com/Kesugovi/Livekit_Aasha-)</b></td>
 <td>Multilingual real-time voice assistant with noise cancellation, powered by Gemini API. Named after a certain Stark-designed AI.</td>
 <td><code>Gemini API</code> <code>LiveKit</code></td>
 </tr>
